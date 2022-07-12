@@ -5,10 +5,9 @@
 //  Created by JiangNan on 2022/7/12.
 //
 
-#include <iostream>
+#include <cstdio>>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    printf("Hello world/n");
     return 0;
 }
